@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Weather
 //
-//  Created by Hilen Adhikari on 10/14/21.
+//  Created by Hari Bista on 10/14/21.
 //
 
 import UIKit
